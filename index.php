@@ -22,6 +22,7 @@
             <li><a href="arrAsoc.php" target="_blank">arrAsoc.php</a></li>
             <li><a href="arrMultiDim.php" target="_blank">arrMultiDim.php</a></li>
             <li><a href="loopForEach.php" target="_blank">loopForEach.php</a></li>
+            <li><a href="test_include.php" target="_blank">test_include.php</a></li>
 
         </ul>
     </body>
