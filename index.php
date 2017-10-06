@@ -6,8 +6,6 @@
     echo 'Nis = $nis <br>';
     echo "Nama = " . $nama . "<br>";
     echo "Usia = {$usia} <br>";
-
-    
 ?>
 
 <html>
